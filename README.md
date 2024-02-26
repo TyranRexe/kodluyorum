@@ -1,0 +1,2 @@
+# kodluyorum
+ilk kodlama derslerim
